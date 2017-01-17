@@ -21,6 +21,9 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="nestfrnd.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="public.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
