@@ -1,12 +1,13 @@
 # depslib dependency file v1.0
-1484567812 source:d:\documents\cprojects\thinking in c++\main.cpp
+1484729746 source:d:\documents\cprojects\thinking in c++\main.cpp
 	<iostream>
 	"public.h"
+	"nestfrnd.h"
 
 1484551675 d:\documents\cprojects\thinking in c++\public.cpp
 	<iostream>
 
-1484567812 d:\documents\cprojects\thinking in c++\public.h
+1484729746 d:\documents\cprojects\thinking in c++\public.h
 	<iostream>
 
 1484587469 source:e:\projects\thinking in c++\main.cpp
@@ -15,4 +16,8 @@
 
 1484567812 e:\projects\thinking in c++\public.h
 	<iostream>
+
+1484722797 d:\documents\cprojects\thinking in c++\nestfrnd.h
+	<stdio.h>
+	<string.h>
 
