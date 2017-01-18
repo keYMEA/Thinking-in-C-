@@ -10,9 +10,13 @@
 1484729746 d:\documents\cprojects\thinking in c++\public.h
 	<iostream>
 
-1484587469 source:e:\projects\thinking in c++\main.cpp
+1484759843 source:e:\projects\thinking in c++\main.cpp
 	<iostream>
 	"public.h"
+	"nestfrnd.h"
+	<conio.h>
+	"em3.h"
+	"em3.cpp"
 
 1484567812 e:\projects\thinking in c++\public.h
 	<iostream>
@@ -20,4 +24,16 @@
 1484722797 d:\documents\cprojects\thinking in c++\nestfrnd.h
 	<stdio.h>
 	<string.h>
+
+1484588143 e:\projects\thinking in c++\nestfrnd.h
+	<stdio.h>
+	<string.h>
+
+1484758784 e:\projects\thinking in c++\em3.h
+
+1484759874 e:\projects\thinking in c++\em3.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<assert.h>
 
