@@ -10,13 +10,9 @@
 1484729746 d:\documents\cprojects\thinking in c++\public.h
 	<iostream>
 
-1484759843 source:e:\projects\thinking in c++\main.cpp
-	<iostream>
-	"public.h"
-	"nestfrnd.h"
-	<conio.h>
-	"em3.h"
-	"em3.cpp"
+1486697571 source:e:\projects\thinking in c++\main.cpp
+	"fileclas.h"
+	<assert.h>
 
 1484567812 e:\projects\thinking in c++\public.h
 	<iostream>
@@ -36,4 +32,32 @@
 	<iostream>
 	<stdlib.h>
 	<assert.h>
+
+1486469703 e:\projects\thinking in c++\bitvector.h
+
+1486469703 source:e:\projects\thinking in c++\bitvector.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	"bitvector.h"
+	<limits.h>
+
+1486470145 e:\projects\thinking in c++\message.h
+
+1486469530 source:e:\projects\thinking in c++\message.cpp
+	<iostream>
+	"message.h"
+
+1486480737 e:\projects\thinking in c++\stash.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1486480835 source:e:\projects\thinking in c++\stash.cpp
+	"stash.h"
+
+1486698082 e:\projects\thinking in c++\fileclas.h
+	<stdio.h>
 

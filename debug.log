@@ -1,0 +1,493 @@
+“”(十六进制值 0x12)是无效的字符。 行 5，位置 50。
+XML dump:
+<tree>
+<item name="PUSH" text_id="334" image0="20" image1="20">
+<item name="STR2" text_id="175" text="Windows Vista x64 Edition Service Pack 1 (Build 7601)" image0="22" image1="22"/>
+<item name="STR2" text_id="293" text="N/A" image0="25" image1="25"/>
+<item name="STR2" text_id="365" text="&#36890;Dv\|&#29992;Dv\|&#21363;Dv\|&#25554;Dv\|&#21363;Dv\|&#29992;Dv\|&#30417;Dv\|&#35270;Dv\|&#22120;Dv\|" image0="21" image1="21"/>
+<item name="STR2" text_id="409" text="9.0c - August 2004, 11.0" image0="21" image1="21"/>
+<item name="STR2" text_id="410" text="vs_5_0, ps_5_0" image0="21" image1="21"/>
+<item name="STR2" text_id="284" text=" 1366 x 768 x 32 bpp (60 Hz)" image0="21" image1="21"/>
+</item>
+<item name="PUSH" text_id="192" image0="17" image1="17">
+<item name="PUSHS" text="1.1 (100 % - 7/7)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR" text="GL_EXT_blend_logic_op (GL_VERSION 4.0)" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_copy_texture (GL_VERSION 4.0)" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_polygon_offset (GL_VERSION 4.0)" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_subtexture (GL_VERSION 4.0)" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_texture (GL_VERSION 4.0)" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_texture_object" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_vertex_array" image0="18" image1="18"/>
+</item>
+</item>
+<item name="PUSHS" text="1.2 (100 % - 8/8)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR" text="GL_EXT_bgra" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_draw_range_elements" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_packed_pixels" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_rescale_normal" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_separate_specular_color" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_texture3D" image0="18" image1="18"/>
+<item name="STR" text="GL_SGIS_texture_edge_clamp (GL_EXT_texture_edge_clamp)" image0="18" image1="18"/>
+<item name="STR" text="GL_SGIS_texture_lod" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glDrawRangeElements" image0="26" image1="26"/>
+<item name="STR" text="glTexImage3D" image0="26" image1="26"/>
+<item name="STR" text="glTexSubImage3D" image0="26" image1="26"/>
+<item name="STR" text="glCopyTexSubImage3D" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="1.3 (100 % - 9/9)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR" text="GL_ARB_multisample" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_multitexture" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_border_clamp" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_compression" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_cube_map" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_env_add" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_env_combine" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_env_dot3" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_transpose_matrix" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glActiveTexture" image0="26" image1="26"/>
+<item name="STR" text="glClientActiveTexture" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord1d" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord1dv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord1f" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord1fv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord1i" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord1iv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord1s" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord1sv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord2d" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord2dv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord2f" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord2fv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord2i" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord2iv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord2s" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord2sv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord3d" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord3dv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord3f" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord3fv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord3i" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord3iv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord3s" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord3sv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord4d" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord4dv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord4f" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord4fv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord4i" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord4iv" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord4s" image0="26" image1="26"/>
+<item name="STR" text="glMultiTexCoord4sv" image0="26" image1="26"/>
+<item name="STR" text="glLoadTransposeMatrixf" image0="26" image1="26"/>
+<item name="STR" text="glLoadTransposeMatrixd" image0="26" image1="26"/>
+<item name="STR" text="glMultTransposeMatrixf" image0="26" image1="26"/>
+<item name="STR" text="glMultTransposeMatrixd" image0="26" image1="26"/>
+<item name="STR" text="glSampleCoverage" image0="26" image1="26"/>
+<item name="STR" text="glCompressedTexImage3D" image0="26" image1="26"/>
+<item name="STR" text="glCompressedTexImage2D" image0="26" image1="26"/>
+<item name="STR" text="glCompressedTexImage1D" image0="26" image1="26"/>
+<item name="STR" text="glCompressedTexSubImage3D" image0="26" image1="26"/>
+<item name="STR" text="glCompressedTexSubImage2D" image0="26" image1="26"/>
+<item name="STR" text="glCompressedTexSubImage1D" image0="26" image1="26"/>
+<item name="STR" text="glGetCompressedTexImage" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="1.4 (100 % - 15/15)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR" text="GL_ARB_depth_texture" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_point_parameters" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_shadow" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_env_crossbar" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_mirrored_repeat" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_window_pos" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_blend_color" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_blend_func_separate" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_fog_coord" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_multi_draw_arrays" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_secondary_color" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_stencil_wrap" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_texture_lod_bias" image0="18" image1="18"/>
+<item name="STR" text="GL_NV_blend_square" image0="18" image1="18"/>
+<item name="STR" text="GL_SGIS_generate_mipmap" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glBlendFuncSeparate" image0="26" image1="26"/>
+<item name="STR" text="glBlendColor" image0="26" image1="26"/>
+<item name="STR" text="glFogCoordf" image0="26" image1="26"/>
+<item name="STR" text="glFogCoordfv" image0="26" image1="26"/>
+<item name="STR" text="glFogCoordd" image0="26" image1="26"/>
+<item name="STR" text="glFogCoorddv" image0="26" image1="26"/>
+<item name="STR" text="glFogCoordPointer" image0="26" image1="26"/>
+<item name="STR" text="glMultiDrawArrays" image0="26" image1="26"/>
+<item name="STR" text="glMultiDrawElements" image0="26" image1="26"/>
+<item name="STR" text="glPointParameterf" image0="26" image1="26"/>
+<item name="STR" text="glPointParameterfv" image0="26" image1="26"/>
+<item name="STR" text="glPointParameteri" image0="26" image1="26"/>
+<item name="STR" text="glPointParameteriv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3b" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3bv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3d" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3dv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3f" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3fv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3i" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3iv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3s" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3sv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3ub" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3ubv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3ui" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3uiv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3us" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColor3usv" image0="26" image1="26"/>
+<item name="STR" text="glSecondaryColorPointer" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos2d" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos2dv" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos2f" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos2fv" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos2i" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos2iv" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos2s" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos2sv" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos3d" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos3dv" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos3f" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos3fv" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos3i" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos3iv" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos3s" image0="26" image1="26"/>
+<item name="STR" text="glWindowPos3sv" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="1.5 (100 % - 3/3)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR" text="GL_ARB_occlusion_query" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_vertex_buffer_object" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_shadow_funcs" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glGenQueries" image0="26" image1="26"/>
+<item name="STR" text="glDeleteQueries" image0="26" image1="26"/>
+<item name="STR" text="glIsQuery" image0="26" image1="26"/>
+<item name="STR" text="glBeginQuery" image0="26" image1="26"/>
+<item name="STR" text="glEndQuery" image0="26" image1="26"/>
+<item name="STR" text="glGetQueryiv" image0="26" image1="26"/>
+<item name="STR" text="glGetQueryObjectiv" image0="26" image1="26"/>
+<item name="STR" text="glGetQueryObjectuiv" image0="26" image1="26"/>
+<item name="STR" text="glBindBuffer" image0="26" image1="26"/>
+<item name="STR" text="glDeleteBuffers" image0="26" image1="26"/>
+<item name="STR" text="glGenBuffers" image0="26" image1="26"/>
+<item name="STR" text="glIsBuffer" image0="26" image1="26"/>
+<item name="STR" text="glBufferData" image0="26" image1="26"/>
+<item name="STR" text="glBufferSubData" image0="26" image1="26"/>
+<item name="STR" text="glGetBufferSubData" image0="26" image1="26"/>
+<item name="STR" text="glMapBuffer" image0="26" image1="26"/>
+<item name="STR" text="glUnmapBuffer" image0="26" image1="26"/>
+<item name="STR" text="glGetBufferParameteriv" image0="26" image1="26"/>
+<item name="STR" text="glGetBufferPointerv" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="2.0 (100 % - 10/10)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR2" text_id="382" text="1.10" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_draw_buffers" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_fragment_shader" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_point_sprite" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_shader_objects" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_shading_language_100" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_non_power_of_two" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_vertex_shader" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_blend_equation_separate" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_stencil_two_side" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glAttachShader" image0="26" image1="26"/>
+<item name="STR" text="glBindAttribLocation" image0="26" image1="26"/>
+<item name="STR" text="glCompileShader" image0="26" image1="26"/>
+<item name="STR" text="glCreateProgram" image0="26" image1="26"/>
+<item name="STR" text="glCreateShader" image0="26" image1="26"/>
+<item name="STR" text="glDeleteProgram" image0="26" image1="26"/>
+<item name="STR" text="glDeleteShader" image0="26" image1="26"/>
+<item name="STR" text="glDetachShader" image0="26" image1="26"/>
+<item name="STR" text="glDrawBuffers" image0="26" image1="26"/>
+<item name="STR" text="glGetActiveAttrib" image0="26" image1="26"/>
+<item name="STR" text="glGetActiveUniform" image0="26" image1="26"/>
+<item name="STR" text="glGetAttachedShaders" image0="26" image1="26"/>
+<item name="STR" text="glGetAttribLocation" image0="26" image1="26"/>
+<item name="STR" text="glGetShaderSource" image0="26" image1="26"/>
+<item name="STR" text="glGetShaderiv" image0="26" image1="26"/>
+<item name="STR" text="glGetProgramiv" image0="26" image1="26"/>
+<item name="STR" text="glGetShaderInfoLog" image0="26" image1="26"/>
+<item name="STR" text="glGetProgramInfoLog" image0="26" image1="26"/>
+<item name="STR" text="glGetUniformLocation" image0="26" image1="26"/>
+<item name="STR" text="glGetUniformfv" image0="26" image1="26"/>
+<item name="STR" text="glGetUniformiv" image0="26" image1="26"/>
+<item name="STR" text="glIsProgram" image0="26" image1="26"/>
+<item name="STR" text="glIsShader" image0="26" image1="26"/>
+<item name="STR" text="glLinkProgram" image0="26" image1="26"/>
+<item name="STR" text="glShaderSource" image0="26" image1="26"/>
+<item name="STR" text="glStencilFuncSeparate" image0="26" image1="26"/>
+<item name="STR" text="glStencilOpSeparate" image0="26" image1="26"/>
+<item name="STR" text="glUniform1f" image0="26" image1="26"/>
+<item name="STR" text="glUniform1fv" image0="26" image1="26"/>
+<item name="STR" text="glUniform1i" image0="26" image1="26"/>
+<item name="STR" text="glUniform1iv" image0="26" image1="26"/>
+<item name="STR" text="glUniform2f" image0="26" image1="26"/>
+<item name="STR" text="glUniform2fv" image0="26" image1="26"/>
+<item name="STR" text="glUniform2i" image0="26" image1="26"/>
+<item name="STR" text="glUniform2iv" image0="26" image1="26"/>
+<item name="STR" text="glUniform3f" image0="26" image1="26"/>
+<item name="STR" text="glUniform3fv" image0="26" image1="26"/>
+<item name="STR" text="glUniform3i" image0="26" image1="26"/>
+<item name="STR" text="glUniform3iv" image0="26" image1="26"/>
+<item name="STR" text="glUniform4f" image0="26" image1="26"/>
+<item name="STR" text="glUniform4fv" image0="26" image1="26"/>
+<item name="STR" text="glUniform4i" image0="26" image1="26"/>
+<item name="STR" text="glUniform4iv" image0="26" image1="26"/>
+<item name="STR" text="glUniformMatrix2fv" image0="26" image1="26"/>
+<item name="STR" text="glUniformMatrix3fv" image0="26" image1="26"/>
+<item name="STR" text="glUniformMatrix4fv" image0="26" image1="26"/>
+<item name="STR" text="glUseProgram" image0="26" image1="26"/>
+<item name="STR" text="glValidateProgram" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib1d" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib1dv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib1f" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib1fv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib1s" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib1sv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib2d" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib2dv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib2f" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib2fv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib2s" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib2sv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib3d" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib3dv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib3f" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib3fv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib3s" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib3sv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4Nbv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4Niv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4Nsv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4Nub" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4Nubv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4Nuiv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4Nusv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4bv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4d" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4dv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4f" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4fv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4iv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4s" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4sv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4ubv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4uiv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttrib4usv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribPointer" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="2.1 (100 % - 3/3)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR2" text_id="382" text="1.20" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_pixel_buffer_object" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_texture_sRGB" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glUniformMatrix2x3fv" image0="26" image1="26"/>
+<item name="STR" text="glUniformMatrix3x2fv" image0="26" image1="26"/>
+<item name="STR" text="glUniformMatrix2x4fv" image0="26" image1="26"/>
+<item name="STR" text="glUniformMatrix4x2fv" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="3.0 (100 % - 23/23)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR2" text_id="382" text="1.30" image0="18" image1="18"/>
+<item name="STR" text="GL_APPLE_flush_buffer_range (GL_ARB_map_buffer_range)" image0="18" image1="18"/>
+<item name="STR" text="GL_APPLE_vertex_array_object (GL_ARB_vertex_array_object)" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_color_buffer_float" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_depth_buffer_float" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_framebuffer_object" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_framebuffer_sRGB" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_half_float_pixel" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_compression_rgtc" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_float" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_rg" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_draw_buffers2" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_framebuffer_blit" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_framebuffer_multisample" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_gpu_shader4" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_packed_depth_stencil" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_packed_float" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_texture_array" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_texture_integer" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_texture_shared_exponent" image0="18" image1="18"/>
+<item name="STR" text="GL_EXT_transform_feedback (GL_NV_transform_feedback)" image0="18" image1="18"/>
+<item name="STR" text="GL_NV_conditional_render" image0="18" image1="18"/>
+<item name="STR" text="GL_NV_half_float" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glBeginConditionalRender" image0="26" image1="26"/>
+<item name="STR" text="glBeginTransformFeedback" image0="26" image1="26"/>
+<item name="STR" text="glBindBufferBase" image0="26" image1="26"/>
+<item name="STR" text="glBindBufferRange" image0="26" image1="26"/>
+<item name="STR" text="glBindFragDataLocation" image0="26" image1="26"/>
+<item name="STR" text="glClampColor" image0="26" image1="26"/>
+<item name="STR" text="glClearBufferfi" image0="26" image1="26"/>
+<item name="STR" text="glClearBufferfv" image0="26" image1="26"/>
+<item name="STR" text="glClearBufferiv" image0="26" image1="26"/>
+<item name="STR" text="glClearBufferuiv" image0="26" image1="26"/>
+<item name="STR" text="glColorMaski" image0="26" image1="26"/>
+<item name="STR" text="glDisablei" image0="26" image1="26"/>
+<item name="STR" text="glEnablei" image0="26" image1="26"/>
+<item name="STR" text="glEndConditionalRender" image0="26" image1="26"/>
+<item name="STR" text="glEndTransformFeedback" image0="26" image1="26"/>
+<item name="STR" text="glGetBooleani_v" image0="26" image1="26"/>
+<item name="STR" text="glGetFragDataLocation" image0="26" image1="26"/>
+<item name="STR" text="glGetIntegeri_v" image0="26" image1="26"/>
+<item name="STR" text="glGetStringi" image0="26" image1="26"/>
+<item name="STR" text="glGetTexParameterIiv" image0="26" image1="26"/>
+<item name="STR" text="glGetTexParameterIuiv" image0="26" image1="26"/>
+<item name="STR" text="glGetTransformFeedbackVarying" image0="26" image1="26"/>
+<item name="STR" text="glGetUniformuiv" image0="26" image1="26"/>
+<item name="STR" text="glGetVertexAttribIiv" image0="26" image1="26"/>
+<item name="STR" text="glGetVertexAttribIuiv" image0="26" image1="26"/>
+<item name="STR" text="glIsEnabledi" image0="26" image1="26"/>
+<item name="STR" text="glTexParameterIiv" image0="26" image1="26"/>
+<item name="STR" text="glTexParameterIuiv" image0="26" image1="26"/>
+<item name="STR" text="glTransformFeedbackVaryings" image0="26" image1="26"/>
+<item name="STR" text="glUniform1ui" image0="26" image1="26"/>
+<item name="STR" text="glUniform1uiv" image0="26" image1="26"/>
+<item name="STR" text="glUniform2ui" image0="26" image1="26"/>
+<item name="STR" text="glUniform2uiv" image0="26" image1="26"/>
+<item name="STR" text="glUniform3ui" image0="26" image1="26"/>
+<item name="STR" text="glUniform3uiv" image0="26" image1="26"/>
+<item name="STR" text="glUniform4ui" image0="26" image1="26"/>
+<item name="STR" text="glUniform4uiv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI1i" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI1iv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI1ui" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI1uiv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI2i" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI2iv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI2ui" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI2uiv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI3i" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI3iv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI3ui" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI3uiv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI4bv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI4i" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI4iv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI4sv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI4ubv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI4ui" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI4uiv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribI4usv" image0="26" image1="26"/>
+<item name="STR" text="glVertexAttribIPointer" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="3.1 (100 % - 8/8)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR2" text_id="382" text="1.40" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_copy_buffer" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_draw_instanced" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_buffer_object" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_rectangle" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_snorm (GL_VERSION 4.0)" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_uniform_buffer_object" image0="18" image1="18"/>
+<item name="STR" text="GL_NV_primitive_restart" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glDrawArraysInstanced" image0="26" image1="26"/>
+<item name="STR" text="glDrawElementsInstanced" image0="26" image1="26"/>
+<item name="STR" text="glTexBuffer" image0="26" image1="26"/>
+<item name="STR" text="glPrimitiveRestartIndex" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="3.2 (100 % - 9/9)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR2" text_id="382" text="1.50" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_draw_elements_base_vertex" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_fragment_coord_conventions" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_geometry_shader4" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_provoking_vertex" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_seamless_cube_map" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_sync" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_multisample" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_vertex_array_bgra" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glGetInteger64i_v" image0="26" image1="26"/>
+<item name="STR" text="glGetBufferParameteri64v" image0="26" image1="26"/>
+<item name="STR" text="glProgramParameteri" image0="26" image1="26"/>
+<item name="STR" text="glFramebufferTexture" image0="26" image1="26"/>
+<item name="STR" text="glFramebufferTextureFace" image0="27" image1="27"/>
+</item>
+</item>
+<item name="PUSHS" text="3.3 (100 % - 9/9)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR2" text_id="382" text="3.30" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_blend_func_extended" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_explicit_attrib_location" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_occlusion_query2" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_sampler_objects" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_rgb10_a2ui" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_swizzle" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_timer_query" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_vertex_type_2_10_10_10_rev" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glVertexAttribDivisor" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="4.0 (100 % - 13/13)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR2" text_id="382" text="4.00" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_draw_buffers_blend" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_draw_indirect" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_gpu_shader5" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_gpu_shader_fp64" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_sample_shading" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_shader_subroutine" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_tessellation_shader" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_buffer_object_rgb32" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_cube_map_array" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_gather" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_texture_query_lod" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_transform_feedback2" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="306" image0="10" image1="10">
+<item name="STR" text="glBlendEquationSeparatei" image0="26" image1="26"/>
+<item name="STR" text="glBlendEquationi" image0="26" image1="26"/>
+<item name="STR" text="glBlendFuncSeparatei" image0="26" image1="26"/>
+<item name="STR" text="glBlendFunci" image0="26" image1="26"/>
+<item name="STR" text="glMinSampleShading" image0="26" image1="26"/>
+</item>
+</item>
+<item name="PUSHS" text="4.1 (75 % - 6/8)" image0="0" image1="17">
+<item name="PUSH" text_id="177" image0="18" image1="18">
+<item name="STR" text="GL_ARB_ES2_compatibility" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_get_program_binary" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_separate_shader_objects" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_shader_precision" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_vertex_attrib_64bit" image0="18" image1="18"/>
+<item name="STR" text="GL_ARB_viewport_array" image0="18" image1="18"/>
+</item>
+<item name="PUSH" text_id="178" image0="19" image1="19">
+<item name="STR2" text_id="382" text="4.10" image0="19" image1="19"/>
+<item name="STR" text="GL_ARB_debug_output" image0="19" image1="19"/>
+</item>
+</item>
+</item>
+</tree>
+
